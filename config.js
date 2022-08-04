@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Nói chứ làm sao em quên sinh nhật chị được',
     messDesc: 'Bắt đầu video cmsn nha',
     btnAccept: 'Ừ',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.youtube.com/channel/UCKOGAgMM-wxF_GgGZJmShSw/videos' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
